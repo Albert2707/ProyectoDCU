@@ -1,0 +1,13 @@
+C:\Users\nidia\source\repos\BienEstar\BienEstar\bin\Debug\BienEstar.exe.config
+C:\Users\nidia\source\repos\BienEstar\BienEstar\bin\Debug\BienEstar.exe
+C:\Users\nidia\source\repos\BienEstar\BienEstar\bin\Debug\BienEstar.pdb
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.csproj.AssemblyReference.cache
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.csproj.SuggestedBindingRedirects.cache
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.Form1.resources
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.Properties.Resources.resources
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.csproj.GenerateResource.cache
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.csproj.CoreCompileInputs.cache
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.exe
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.pdb
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.InfoApp.Information.resources
+C:\Users\nidia\source\repos\BienEstar\BienEstar\obj\Debug\BienEstar.CalculadoraImc.CalculadoraIndice.resources
